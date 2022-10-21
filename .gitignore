@@ -9,3 +9,4 @@ coverage.json
 typechain
 
 .env
+node_modules
